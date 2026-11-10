@@ -1,0 +1,142 @@
+[
+  {
+    "path": "2026_03_06_10_24_41_dlp_L2_LDP41B96XSD165867_39240_geometryGt/night/20261109_185024_2cCiq5.mp4",
+    "frames": 600,
+    "expected_frames": 600,
+    "fps": 10.0,
+    "bytes": 5157162
+  },
+  {
+    "path": "2026_03_06_11_29_48_dlp_L2_LDP41B96XSD165867_39240_geometryGt/night/20261109_185024_PM5J82.mp4",
+    "frames": 523,
+    "expected_frames": 523,
+    "fps": 10.0,
+    "bytes": 6268929
+  },
+  {
+    "path": "2026_03_06_12_38_27_dlp_L2_LDP41B960SD165599_39240_geometryGt/night/20261109_185024_gUNrUp.mp4",
+    "frames": 599,
+    "expected_frames": 599,
+    "fps": 10.0,
+    "bytes": 4442284
+  },
+  {
+    "path": "2026_03_07_08_17_52_dlp_L2_LDP41B96XSD165383_39240_geometryGt/night/20261109_185024_gLas6g.mp4",
+    "frames": 599,
+    "expected_frames": 599,
+    "fps": 10.0,
+    "bytes": 7218726
+  },
+  {
+    "path": "2026_03_07_16_37_53_dlp_L2_LDP41B96XSD165867_39240_geometryGt/night/20261109_185024_JlvuQI.mp4",
+    "frames": 587,
+    "expected_frames": 587,
+    "fps": 10.0,
+    "bytes": 7510943
+  },
+  {
+    "path": "2026_04_03_08_18_35_dlp_L2_LDP41B967SD165955_39240_geometryGt/night/20261109_185024_yyAOUk.mp4",
+    "frames": 583,
+    "expected_frames": 583,
+    "fps": 10.0,
+    "bytes": 8003080
+  },
+  {
+    "path": "2026_04_10_10_36_33_dlp_L2_LDP41B963SD166259_39240_geometryGt/night/20261109_185024_TYpG3U.mp4",
+    "frames": 584,
+    "expected_frames": 584,
+    "fps": 10.0,
+    "bytes": 7587130
+  },
+  {
+    "path": "2026_04_24_10_00_24_dlp_L2_LDP41B961SD165384_39097_geometryGt/night/20261109_185024_clkFjd.mp4",
+    "frames": 596,
+    "expected_frames": 596,
+    "fps": 10.0,
+    "bytes": 8470978
+  },
+  {
+    "path": "2026_04_24_10_05_24_dlp_L2_LDP41B961SD165384_39097_geometryGt/night/20261109_204000_J9wmAk.mp4",
+    "frames": 596,
+    "expected_frames": 596,
+    "fps": 10.0,
+    "bytes": 5740132
+  },
+  {
+    "path": "2026_04_24_10_10_24_dlp_L2_LDP41B961SD165384_39097_geometryGt/night/20261109_202436_sNXk2g.mp4",
+    "frames": 596,
+    "expected_frames": 596,
+    "fps": 10.0,
+    "bytes": 5441846
+  },
+  {
+    "path": "2026_04_24_10_20_24_dlp_L2_LDP41B961SD165384_39097_geometryGt/night/20261109_203956_5ut5fM.mp4",
+    "frames": 597,
+    "expected_frames": 597,
+    "fps": 10.0,
+    "bytes": 6245450
+  },
+  {
+    "path": "2026_04_24_13_12_06_dlp_L2_LDP41B96XSD166288_39097_geometryGt/night/20261109_204002_cDTuCV.mp4",
+    "frames": 590,
+    "expected_frames": 590,
+    "fps": 10.0,
+    "bytes": 6801135
+  },
+  {
+    "path": "2026_04_24_13_41_46_dlp_L2_LDP41B968SD165964_39097_geometryGt/night/20261109_204001_meDEQH.mp4",
+    "frames": 583,
+    "expected_frames": 583,
+    "fps": 10.0,
+    "bytes": 9033253
+  },
+  {
+    "path": "2026_04_24_14_51_35_dlp_L2_LDP41B966SD165901_39097_geometryGt/night/20261109_204002_vrXr8h.mp4",
+    "frames": 600,
+    "expected_frames": 600,
+    "fps": 10.0,
+    "bytes": 5761768
+  },
+  {
+    "path": "2026_04_24_14_56_35_dlp_L2_LDP41B966SD165901_39097_geometryGt/night/20261109_204000_OkAvXJ.mp4",
+    "frames": 601,
+    "expected_frames": 601,
+    "fps": 10.0,
+    "bytes": 6762341
+  },
+  {
+    "path": "2026_04_25_14_32_57_dlp_L2_LDP41B964SD166237_39097_geometryGt/night/20261109_204003_r8wvFo.mp4",
+    "frames": 590,
+    "expected_frames": 590,
+    "fps": 10.0,
+    "bytes": 5280773
+  },
+  {
+    "path": "2026_04_25_14_42_58_dlp_L2_LDP41B964SD166237_39097_geometryGt/night/20261109_222833_A847FY.mp4",
+    "frames": 590,
+    "expected_frames": 590,
+    "fps": 10.0,
+    "bytes": 6103917
+  },
+  {
+    "path": "2026_04_25_14_57_58_dlp_L2_LDP41B964SD166237_39097_geometryGt/night/20261109_221253_n8K3oW.mp4",
+    "frames": 591,
+    "expected_frames": 591,
+    "fps": 10.0,
+    "bytes": 6573603
+  },
+  {
+    "path": "2026_04_25_14_58_26_dlp_L2_LDP41B961SD165384_39097_geometryGt/night/20261109_222835_UiJbPE.mp4",
+    "frames": 588,
+    "expected_frames": 588,
+    "fps": 10.0,
+    "bytes": 7009842
+  },
+  {
+    "path": "2026_04_25_15_59_59_dlp_L2_LDP41B96XSD166288_39097_geometryGt/night/20261109_222835_owO3DT.mp4",
+    "frames": 593,
+    "expected_frames": 593,
+    "fps": 10.0,
+    "bytes": 4917929
+  }
+]
