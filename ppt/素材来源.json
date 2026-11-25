@@ -1,0 +1,47 @@
+[
+  {
+    "file": "videos/01_original.mp4",
+    "source": "/mnt/wzb-workspace/weather_transfer/rain_runs/2026_04_24_10_00_24_dlp_L2_LDP41B961SD165384/20261106_092423_rg9nDx/output/input.mp4",
+    "note": "前9秒；展示转码，不代表原生输出分辨率"
+  },
+  {
+    "file": "videos/02_edge_control.mp4",
+    "source": "/mnt/wzb-workspace/weather_transfer/rain_runs/2026_04_24_10_00_24_dlp_L2_LDP41B961SD165384/20261106_092423_rg9nDx/output/input_edge.mp4",
+    "note": "前9秒；展示转码，不代表原生输出分辨率"
+  },
+  {
+    "file": "videos/03_rain.mp4",
+    "source": "/mnt/wzb-workspace/weather_transfer/rain_runs/2026_04_24_10_00_24_dlp_L2_LDP41B961SD165384/20261106_092423_rg9nDx/output/weather_transfer.mp4",
+    "note": "前9秒；展示转码，不代表原生输出分辨率"
+  },
+  {
+    "file": "videos/04_snow.mp4",
+    "source": "/mnt/wzb-workspace/weather_transfer/snow_runs/2026_04_24_10_00_24_dlp_L2_LDP41B961SD165384/20261106_145107_xK9bNa/output/weather_transfer.mp4",
+    "note": "前9秒；展示转码，不代表原生输出分辨率"
+  },
+  {
+    "file": "videos/05_night.mp4",
+    "source": "/mnt/wzb-workspace/weather_transfer/night_runs/2026_04_24_10_00_24_dlp_L2_LDP41B961SD165384_39097_geometryGt/20261109_185024_clkFjd/output/weather_transfer.mp4",
+    "note": "前9秒；展示转码，不代表原生输出分辨率"
+  },
+  {
+    "file": "videos/06_original_vs_rain.mp4",
+    "source": "/mnt/wzb-workspace/weather_transfer/rain_runs/2026_04_24_10_00_24_dlp_L2_LDP41B961SD165384/20261106_092423_rg9nDx/output/comparison.mp4",
+    "note": "前9秒；展示转码，不代表原生输出分辨率"
+  },
+  {
+    "file": "videos/07_original_vs_snow.mp4",
+    "source": "/mnt/wzb-workspace/weather_transfer/snow_runs/2026_04_24_10_00_24_dlp_L2_LDP41B961SD165384/20261106_145107_xK9bNa/output/comparison.mp4",
+    "note": "前9秒；展示转码，不代表原生输出分辨率"
+  },
+  {
+    "file": "videos/08_original_vs_night.mp4",
+    "source": "/mnt/wzb-workspace/weather_transfer/night_runs/2026_04_24_10_00_24_dlp_L2_LDP41B961SD165384_39097_geometryGt/20261109_185024_clkFjd/output/comparison.mp4",
+    "note": "前9秒；展示转码，不代表原生输出分辨率"
+  },
+  {
+    "file": "videos/09_four_panel.mp4",
+    "layout": "左上原始，右上雨天，左下雪天，右下夜晚",
+    "note": "按各视频起点并排，仅用于效果展示，未做跨运行逐像素配准"
+  }
+]

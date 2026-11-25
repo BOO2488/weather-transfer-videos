@@ -1,0 +1,47 @@
+[
+  {
+    "file": "01_original.mp4",
+    "decoded_frames": 90,
+    "fps": 10.0
+  },
+  {
+    "file": "02_edge_control.mp4",
+    "decoded_frames": 90,
+    "fps": 10.0
+  },
+  {
+    "file": "03_rain.mp4",
+    "decoded_frames": 90,
+    "fps": 10.0
+  },
+  {
+    "file": "04_snow.mp4",
+    "decoded_frames": 90,
+    "fps": 10.0
+  },
+  {
+    "file": "05_night.mp4",
+    "decoded_frames": 90,
+    "fps": 10.0
+  },
+  {
+    "file": "06_original_vs_rain.mp4",
+    "decoded_frames": 90,
+    "fps": 10.0
+  },
+  {
+    "file": "07_original_vs_snow.mp4",
+    "decoded_frames": 90,
+    "fps": 10.0
+  },
+  {
+    "file": "08_original_vs_night.mp4",
+    "decoded_frames": 90,
+    "fps": 10.0
+  },
+  {
+    "file": "09_four_panel.mp4",
+    "decoded_frames": 90,
+    "fps": 10.0
+  }
+]
